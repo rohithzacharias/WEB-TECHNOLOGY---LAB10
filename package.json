@@ -1,0 +1,16 @@
+{
+  "name": "techzone-experiment-10",
+  "version": "1.0.0",
+  "description": "TechZone customer registration using Node.js and MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongodb": "^6.12.0"
+  }
+}
